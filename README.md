@@ -14,6 +14,10 @@ VS 2017 starter solution for a .NET Core 2.1 class library named VaderConsulting
 
 Open `VaderConsulting.sln` in Visual Studio 2017 (solution format 12.00, Visual Studio 15).
 
+## Requirements
+
+- Visual Studio 2017, netcoreapp2.1
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting`.
