@@ -1,4 +1,4 @@
-# VaderConsulting
+# VaderConsulting.Extensions
 
 VS 2017 starter solution for a .NET Core 2.1 class library named VaderConsulting.Extensions. Class1 is an empty placeholder; no extension methods yet. Published as VaderConsulting.Extensions because github.com/VaderConsulting/VaderConsulting is the org profile catalog.
 
@@ -20,8 +20,8 @@ Open `VaderConsulting.sln` in Visual Studio 2017 (solution format 12.00, Visual 
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting`.
+Working copy from my Historical Dev folder `VaderConsulting`.
 
 ## License
 
-MIT © 2026 VaderConsulting. See `LICENSE`.
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
